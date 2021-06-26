@@ -1,0 +1,4 @@
+6:Teacher: hellow dear, how are you?
+7:Frank: I am fine sir, and you?
+6:Teacher: Not bad at all, thanks.
+4:Frank: I hope so
